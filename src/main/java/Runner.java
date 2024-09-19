@@ -8,5 +8,6 @@ public class Runner {
         System.out.println("versiyon 4");
         //remoteda değişiklik
         //remoteda değişiklik 2
+        //B kişisi değişiklik yaptı
     }
 }
